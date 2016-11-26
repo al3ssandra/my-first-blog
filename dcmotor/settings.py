@@ -86,8 +86,8 @@ DATABASES = {
         'NAME': 'super',
         'USER': 'super',
         'PASSWORD': 'zombies2711',
-        'HOST': 'alessa-262.postgres.pythonanywhere-services.com',
-        'PORT': '10262',
+        'HOST': 'alessavolpe-263.postgres.pythonanywhere-services.com',
+        'PORT': '10263',
     }
 }
 
